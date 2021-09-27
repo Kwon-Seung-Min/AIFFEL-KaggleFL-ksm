@@ -10,10 +10,10 @@ AIFFEL 후반기 풀잎 '캐글 필사' 임무 수행을 위한 repo입니다! �
 ## 어둠의 개발자는 풀잎에서 이런 내용을 다뤄요.
 |**풀잎 주차**|**필사 주제**|
 |------|---|
-|1 주차|Titanic: Machine Learning from Disaster|
-|2 주차|Porto Seguro’s Safe Driver Prediction|
-|3 주차|Home Credit Default Risk|
-|4 주차|New York City Taxi Trip Duration|
-|5 주차|Zillow Prize: Zillow’s Home Value Prediction (Zestimate)|
-|6 주차|Credit Card Fraud Detection|
-|7 주차|실제 대회 도전하기|
+|1 주차 (9월 28일)|Titanic: Machine Learning from Disaster|
+|2 주차 (10월 5일)|Porto Seguro’s Safe Driver Prediction|
+|3 주차 (10월 19일)|Home Credit Default Risk|
+|4 주차 (10월 26일)|New York City Taxi Trip Duration|
+|5 주차 (11월 2일)|Zillow Prize: Zillow’s Home Value Prediction (Zestimate)|
+|6 주차 (11월 10일)|Credit Card Fraud Detection|
+|7 주차 (11월 16일)|실제 대회 도전하기|
