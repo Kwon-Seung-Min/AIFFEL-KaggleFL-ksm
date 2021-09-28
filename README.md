@@ -9,7 +9,7 @@ AIFFEL 후반기 풀잎 '캐글 필사' 임무 수행을 위한 repo입니다! �
 
 ## 어둠의 개발자는 풀잎에서 이런 내용을 다뤄요.
 |**풀잎 주차**|**필사 주제**|**필사 노트북**|**발표 여부**|
-|------|---|---|
+|------|---|---|---|
 |1 주차 (9월 28일)|Titanic: Machine Learning from Disaster|https://www.kaggle.com/ash316/eda-to-prediction-dietanic|X|
 |2 주차 (10월 5일)|Porto Seguro’s Safe Driver Prediction|https://www.kaggle.com/bertcarremans/data-preparation-exploration|O|
 |3 주차 (10월 19일)|Home Credit Default Risk|https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction|X|
