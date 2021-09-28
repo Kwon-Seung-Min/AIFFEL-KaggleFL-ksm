@@ -8,7 +8,7 @@ AIFFEL 후반기 풀잎 '캐글 필사' 임무 수행을 위한 repo입니다! �
 이번 풀잎을 통해 캐글에 대한 공포를 이겨내는 데 조금이라도 도움이 된다면 좋을 것 같습니다. AIFFEL 훈련 초반 캐글 노드 수행에서의 어려움, 캐글 30일 챌린지 중도포기 등 캐글에 얽힌 안타까운 기억이 있었는데, 이번 풀잎이 끝날 때쯤에는 이러한 애로사항들이 해소되기를 원합니다.
 
 ## 어둠의 개발자는 풀잎에서 이런 내용을 다뤄요.
-|**풀잎 주차**|**필사 주제**|**필사 노트북**|**발표 여부**|
+|**풀잎주차**|**필사 주제**|**필사 노트북**|**발표 여부**|
 |------|---|---|---|
 |1 주차 (9월 28일)|Titanic: Machine Learning from Disaster|https://www.kaggle.com/ash316/eda-to-prediction-dietanic|X|
 |2 주차 (10월 5일)|Porto Seguro’s Safe Driver Prediction|https://www.kaggle.com/bertcarremans/data-preparation-exploration|O|
